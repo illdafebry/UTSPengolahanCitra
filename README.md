@@ -9,6 +9,8 @@ Universitas Pelita Bangsa
 
 Jika ingin lihat codingannya, buka di Matlab file `.m` dan `.fig`
 
+Link Demo  Aplikasi : https://youtu.be/vGJjtxMwNDQ
+
 ## Screenshot Program
 
 ![image](https://user-images.githubusercontent.com/85242560/126855662-c797138c-ac25-49fe-abff-138b4e0147ff.png)
